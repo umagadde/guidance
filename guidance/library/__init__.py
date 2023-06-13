@@ -21,3 +21,5 @@ from ._greater import greater
 from ._less import less
 from ._contains import contains
 from ._parse import parse
+from ._databasereader import DatabaseReader
+from ._sql_database import SQLDatabase
